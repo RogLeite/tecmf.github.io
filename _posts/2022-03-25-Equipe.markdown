@@ -49,8 +49,9 @@ categorias, semântica formal e Lógica. Possui graduação em Matemática pela 
  * Bernardo Alkmim
  * Bruno Cuconato
  * Cleyton Slavieiro
+ * Fernando Pinto
  </div>
- 
+
 <button type="button" class="collapsible" id="mestr">Mestrandos</button>
 
 <div class="content" id="mestrdata" markdown="1">
@@ -61,7 +62,7 @@ categorias, semântica formal e Lógica. Possui graduação em Matemática pela 
 <button type="button" class="collapsible" id="grad">Graduandos</button>
 
 <div class="content" id="graddata" markdown="1">
- * Luiz Carlos Vianna 
+ * Luiz Carlos Vianna
 </div>
 
 <button type="button" class="collapsible" id="ex">Ex-Membros</button>
