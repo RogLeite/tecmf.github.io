@@ -36,7 +36,7 @@ categorias, semântica formal e Lógica. Possui graduação em Matemática pela 
  * [Jean-Baptiste Joinet](https://www.univ-lyon3.fr/joinet-jean-baptiste){:target="\_blank"}
  * [Jefferson Santos](https://ebape.fgv.br/en/faculty/jefferson-santos){:target="\_blank"}
  * [Lew Gordeev](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/logik-und-sprachtheorie/personen/ehemalige-und-sonstige-mitarbeiter/pd-dr-lev-gordeev/){:target="\_blank"}
- * [Luiz Carlos Pereira](http://www.fil.puc-rio.br/o-departamento/corpo-docente/luiz-carlos-pinheiro-dias-pereira/){:target="\_blank"}
+ * [Luiz Carlos Pereira](https://www.filosofia.uerj.br/docentes){:target="\_blank"}
  * [Valeria de Paiva](https://vcvpaiva.github.io/){:target="\_blank"}
  * [Vaston Goncalves da Costa](https://sigaa.sistemas.ufcat.edu.br/sigaa/public/docente/portal.jsf?siape=1315553){:target="\_blank"}
 </div>
