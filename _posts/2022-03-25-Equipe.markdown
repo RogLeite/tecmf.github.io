@@ -12,19 +12,11 @@ A equipe do grupo está distribuída pelo mundo nos mais diversos centros de pes
 
 # Membros do grupo TecMF
 
-## Lider:
-
- > [Edward Hermann Haeusler](http://www.inf.puc-rio.br/blog/professor/@edward-hermann-haeusler/)
-
- Edward Herman Haeusler é professor associado da PUC-Rio e tem como area de atuação a Ciencia da Computação voltada a Computabilidade e Modelos de Computação. Nesse setor pesquisa teoria da prova, teoria das
-categorias, semântica formal e Lógica. Possui graduação em Matemática pela Universidade de Brasília (1983), mestrado em Informática pela Pontifícia Universidade Católica do Rio de Janeiro (1986) e doutorado em Informática também pela PUC-Rio (1990).
-
-## Demais Membros:
-
 <button type="button" class="collapsible" id="pesq">Pesquisadores e Contribuidores</button>
 
 <div class="content" id="pesqdata" markdown="1">
 
+ * [Edward Hermann Haeusler](http://www.inf.puc-rio.br/blog/professor/@edward-hermann-haeusler/){:target="\_blank"} (Líder)
  * [Bruno Lopes](http://www.ic.uff.br/~bruno){:target="\_blank"}
  * [Cecilia Englander](http://www.inf.puc-rio.br/blog/professor/cecilia-reis-englander-lustosa/){:target="\_blank"}
  * [Christiano Braga](http://www.ic.uff.br/~cbraga){:target="\_blank"}
@@ -47,7 +39,7 @@ categorias, semântica formal e Lógica. Possui graduação em Matemática pela 
 
  * Guilherme Silva
  * Bernardo Alkmim
- * [Bruno Cuconato](https://www.inf.puc-rio.br/~bclaro/)
+ * [Bruno Cuconato](https://www.inf.puc-rio.br/~bclaro/){:target="\_blank"}
  * Cleyton Slaviero
  * Fernando Pinto
  * Robinson Callou
