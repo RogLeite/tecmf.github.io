@@ -65,15 +65,17 @@ categorias, semântica formal e Lógica. Possui graduação em Matemática pela 
  * Luiz Carlos Vianna
 </div>
 
-<button type="button" class="collapsible" id="ex">Ex-Membros</button>
+<button type="button" class="collapsible" id="ex">Egressos</button>
 
 <div class="content" id="exdata" markdown="1">
 
  * [Alexandre Rademaker]([http://arademaker.github.io/)
  * [Bruno Schröeder](Bruno Schroeder)
+ * [Christian Jacques Rentería](Christian Jacques Rentería)
  * [Carlos Bazílio](Carlos Bazílio)
  * [Fernando Naufel](Fernando Náufel do Amaral)
  * [Juliana Carpes Imperial](Juliana Carpes Imperial)
+ * Lorenzo Saraiva
  * [Marco Teixeira](Marco Teixeira)
  * [Vitor Pinheiro](Vitor Pinheiro)
  * [Hugo Macedo](Hugo Macedo)
