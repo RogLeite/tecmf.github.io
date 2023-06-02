@@ -28,14 +28,14 @@ categorias, semântica formal e Lógica. Possui graduação em Matemática pela 
  * [Bruno Lopes](http://www.ic.uff.br/~bruno){:target="\_blank"}
  * [Cecilia Englander](http://www.inf.puc-rio.br/blog/professor/cecilia-reis-englander-lustosa/){:target="\_blank"}
  * [Christiano Braga](http://www.ic.uff.br/~cbraga){:target="\_blank"}
- * [DaviRomero](https://www.quixada.ufc.br/docente/davi-romero-de-vasconcelos/){:target="\_blank"}
+ * [Davi Romero](https://www.quixada.ufc.br/docente/davi-romero-de-vasconcelos/){:target="\_blank"}
  * [Geiza Hamazaki](http://buscatextual.cnpq.br/buscatextual/visualizacv.do){:target="\_blank"}
  * [Gilles Dowek](https://who.rocq.inria.fr/Gilles.Dowek/){:target="\_blank"}
  * [Guilherme Lima](http://www.telemidia.puc-rio.br/~gflima){:target="\_blank"}
  * [Isabel Cafezeiro](http://www.ic.uff.br/index.php/pt/pessoas/168-docente?docente=29){:target="\_blank"}
  * [Jean-Baptiste Joinet](https://www.univ-lyon3.fr/joinet-jean-baptiste){:target="\_blank"}
  * [Jefferson Santos](https://ebape.fgv.br/en/faculty/jefferson-santos){:target="\_blank"}
- * [Lev Gordeev](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/logik-und-sprachtheorie/personen/ehemalige-und-sonstige-mitarbeiter/pd-dr-lev-gordeev/){:target="\_blank"}
+ * [Lew Gordeev](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/logik-und-sprachtheorie/personen/ehemalige-und-sonstige-mitarbeiter/pd-dr-lev-gordeev/){:target="\_blank"}
  * [Luiz Carlos Pereira](http://www.fil.puc-rio.br/o-departamento/corpo-docente/luiz-carlos-pinheiro-dias-pereira/){:target="\_blank"}
  * [Valeria de Paiva](https://vcvpaiva.github.io/){:target="\_blank"}
  * [Vaston Goncalves da Costa](https://sigaa.sistemas.ufcat.edu.br/sigaa/public/docente/portal.jsf?siape=1315553){:target="\_blank"}
@@ -50,13 +50,13 @@ categorias, semântica formal e Lógica. Possui graduação em Matemática pela 
  * Bruno Cuconato
  * Cleyton Slavieiro
  * Fernando Pinto
+ * Robinson Callou
  </div>
 
 <button type="button" class="collapsible" id="mestr">Mestrandos</button>
 
 <div class="content" id="mestrdata" markdown="1">
-
- * Robinson Callou
+* Rodrigo Leite 
 </div>
 
 <button type="button" class="collapsible" id="grad">Graduandos</button>
