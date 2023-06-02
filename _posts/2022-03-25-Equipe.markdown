@@ -47,8 +47,8 @@ categorias, semântica formal e Lógica. Possui graduação em Matemática pela 
 
  * Guilherme Silva
  * Bernardo Alkmim
- * Bruno Cuconato
- * Cleyton Slavieiro
+ * [Bruno Cuconato](https://www.inf.puc-rio.br/~bclaro/)
+ * Cleyton Slaviero
  * Fernando Pinto
  * Robinson Callou
  </div>
